@@ -1,5 +1,5 @@
 Assuptions : 
-1) The input format will be : <Quantity> <item-name> at <price>. Example : 1 book at 124.99
+1) The input format will be : Quantity item-name at price. Example : 1 book at 124.99
 2) All the prices are in Indian Rupees, including taxes and total in Receipt.
 3) Once done with the inputs, user will write done to complete the input.
 
